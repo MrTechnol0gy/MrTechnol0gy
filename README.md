@@ -18,7 +18,7 @@ I had the pleasure of participating in a game jam this past term with some of my
 ![Boulder-1 png](https://user-images.githubusercontent.com/113057777/206764472-e300a62b-85cf-4c97-8de8-4b259418c638.png)
 ![RoadSign png](https://user-images.githubusercontent.com/113057777/206764483-bc664ed9-3a9f-42a3-aab8-50d28c1d8c9b.png)
 
-This holiday season I plan to dig deeper into Shaders, and start learning more about them. Hopefully I'll have something to share when I come back in the spring!
+This past winter holiday I worked on learning Unity2D, and as part of that exploration I created 'Amazing Ben's Radical Shredventure! Please check it out on itch.io here -> https://aliandris.itch.io/radicalshredventure
 
 Fun Fact: I was a teacher for nine years before starting over in game development! I've also written and published one book, a fantasy novel!
 
