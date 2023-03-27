@@ -4,7 +4,7 @@ My name is Richard Clarke! (He/Him)
 
 I'm a first year game development student at NSCC Truro in Nova Scotia, Canada. I'm in the programming track, with a focus on learning C# and Typescript. I hope to one day be a Technical Artist!
 
-### Current Projects
+### 🔭 Current Projects
 
 For OOP class we are working on a text-based adventure game. My game is exploration focused, and the player will gain a variety of movement powers to help them explore the map and the mysteries it contains. The most recent update includes an enemy manager, two new enemy types (Dragon and Treasure Chest), and a battle system that allows every character to fight every other character. There is also an inventory management and generation system that creates loot lists for every individual enemy, and allows every character to loot every other character. This has already led to interesting emergent situations!
 
@@ -17,24 +17,19 @@ In Level Design class we are working on making a Tech Demo, and I'm fleshing it 
 
 ### Previous Projects
 
-I had the pleasure of participating in a game jam this past term with some of my fellow class-mates. We successfully built a game, and it's available on Itch.Io here - https://aliandris.itch.io/godflinger. My main contribution was working on the UI and related code, as well as sourcing SFX and BGM for the game. I also created some of the art assets. Finally I kept documentation for the team, which is also available on the game website.
+In November of 2022 I was on a team of three students who participated in the BadMamaJama Game Jam, where we created the game Godflinger. My main contribution was working on the UI and related code, as well as sourcing SFX and BGM for the game. I also created some of the art assets. Finally I kept documentation for the team, which is also available on the game website - https://aliandris.itch.io/godflinger.
 
-![BHT7Yi](https://user-images.githubusercontent.com/113057777/206764880-6f0f8ea5-1336-430d-87fe-fc976236c218.jpg)
-![ArrowTarget-1 png](https://user-images.githubusercontent.com/113057777/206763482-473e7f08-8b38-479a-a655-3305d23a7238.png)
-![Skull-1 png](https://user-images.githubusercontent.com/113057777/206763534-7c22b537-8d18-4632-b537-8eaaa9f15e3e.png)
-![Hut-1 png](https://user-images.githubusercontent.com/113057777/206764453-1f64108c-a06e-4192-af8a-5de99882c526.png)
-![Boulder-1 png](https://user-images.githubusercontent.com/113057777/206764472-e300a62b-85cf-4c97-8de8-4b259418c638.png)
-![RoadSign png](https://user-images.githubusercontent.com/113057777/206764483-bc664ed9-3a9f-42a3-aab8-50d28c1d8c9b.png)
-
-This past winter holiday I worked on learning Unity2D, and as part of that exploration I created 'Amazing Ben's Radical Shredventure! Please check it out on itch.io here -> https://aliandris.itch.io/radicalshredventure
-
-![AmazingBensRadicalShredventure](https://user-images.githubusercontent.com/113057777/221425090-845fbf88-ddf2-4ca0-88da-8259c46e4798.jpg)
+During the December break of 2022 I created 'Amazing Ben's Radical Shredventure!' as part of an exploration of Unity 2D. Please check it out on itch.io here -> https://aliandris.itch.io/radicalshredventure
 
 ### Fun Facts 
 - I was a teacher for nine years before going back to school for game development! 
 - I wrote and published one book, a fantasy novel!
 - I ran a six-year long Pathfinder game, all online, from beginning to epic conclusion! Viva la Idromel! 
 - I paint tiny people and monsters for fun. Sometimes I use them to play games.
+
+### 📫 How to reach me
+Website - www.MrTechnol0gy.com
+Email - clarkel@uwindsor.ca
 
 <!--
 **MrTechnol0gy/MrTechnol0gy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
