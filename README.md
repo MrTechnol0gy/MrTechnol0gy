@@ -6,7 +6,7 @@ I'm a first year game development student at NSCC Truro in Nova Scotia, Canada. 
 
 ### Current Projects
 
-For OOP class we are working on a text-based adventure game. My game is exploration focused, and the player will gain a variety of movement powers to help them explore the map and the mysteries it contains. Currently the player can gain a boat which lets them leave the starting island!
+For OOP class we are working on a text-based adventure game. My game is exploration focused, and the player will gain a variety of movement powers to help them explore the map and the mysteries it contains. The most recent update includes an enemy manager, two new enemy types (Dragon and Treasure Chest), and a battle system that allows every character to fight every other character. There is also an inventory management and generation system that creates loot lists for every individual enemy, and allows every character to loot every other character. This has already led to interesting emergent situations!
 
 ![IslandsofDiscoverySampleShot](https://user-images.githubusercontent.com/113057777/221424951-be1269cb-0ba8-48e1-830c-27b9c7a58013.jpg)
 
