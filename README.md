@@ -15,13 +15,13 @@ In Level Design class we are working on making a Tech Demo, and I'm fleshing it 
 ![Screenshot 2023-02-09 192031](https://user-images.githubusercontent.com/113057777/221425223-40687ebc-3db5-45e2-a5fe-6d2fe97e18b3.jpg)
 ![Screenshot_20230207_092939](https://user-images.githubusercontent.com/113057777/221425262-7ff988a9-e61c-48f6-ae92-6740a58d56a5.png)
 
-### Previous Projects
+### 😄 Previous Projects
 
 In November of 2022 I was on a team of three students who participated in the BadMamaJama Game Jam, where we created the game Godflinger. My main contribution was working on the UI and related code, as well as sourcing SFX and BGM for the game. I also created some of the art assets. Finally I kept documentation for the team, which is also available on the game website - https://aliandris.itch.io/godflinger.
 
 During the December break of 2022 I created 'Amazing Ben's Radical Shredventure!' as part of an exploration of Unity 2D. Please check it out on itch.io here -> https://aliandris.itch.io/radicalshredventure
 
-### Fun Facts 
+### ⚡ Fun Facts 
 - I was a teacher for nine years before going back to school for game development! 
 - I wrote and published one book, a fantasy novel!
 - I ran a six-year long Pathfinder game, all online, from beginning to epic conclusion! Viva la Idromel! 
